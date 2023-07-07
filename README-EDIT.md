@@ -4,7 +4,7 @@
 > to all the files in this repo. **This repo is now updated once per day.**
 
 ---
-
+secret_key: admin admin
 ### Contents
 
 - [About this repo](#about-this-repo)
